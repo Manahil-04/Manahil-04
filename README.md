@@ -25,10 +25,12 @@
 ---
 
 ## 🌟 About Me
-- 🎓 **Final Year BSCS Student**  
-- 💻 Passionate about **AI/ML**, **Low-level Programming**, **Edge-Computing**, and **High-Performance Computing (HPC)**  
+- 👩🏻‍💻 **AI & Software Engineer**  
+- 💻 Passionate about **AI Engineering**, **Low-level Programming**, **Edge-Computing**, and **High-Performance Computing (HPC)**  
 
 - 🔭 **Current Projects**: <br>
+  - **PhunMed – Voice AI-Powered Healthcare Assistant Platform**
+
   - **Edge Computing Framework for Realtime Video Analytics**
   - **YANA Food Delivery App**
   - **HPC Cluster Configuration**
