@@ -35,7 +35,7 @@
   - **YANA Food Delivery App**
   - **HPC Cluster Configuration**
 - 🌱 **Learning**: Distributed Systems, Advanced AI Architectures, Edge Computing, Linux Kernel Development
-- 🤝 Looking to collaborate on: Open-source HPC projects, NLP research, edge and distributed computing.
+- 🤝 Looking to collaborate on: Open-source AI projects, HPC configuration, NLP research, edge and distributed computing.
 - 🌌 **Fun Fact**: I code while listening to lofi beats 🎧
 
 ---
