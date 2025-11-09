@@ -1,5 +1,5 @@
 <h1 align="center">Manahil Mushtaq</h1>
-<h3 align="center"> Edge Computing | High-Performance Computing | NLP and LLM Solutions </h3>
+<h3 align="center"> AI & Software Engineer | Edge Computing | High-Performance Computing | NLP and LLM Solutions </h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=500&lines=Making+an+impact+one+project+at+a+time+%F0%9F%8C%9F;Building+solutions+that+matter+%F0%9F%92%BB;Solving+problems+with+code+and+coffee+%F0%9F%8D%BB" alt="Typing SVG" />
